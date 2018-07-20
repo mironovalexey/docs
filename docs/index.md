@@ -1,3 +1,3 @@
-MkDocs test
+# MkDocs test
 
 Hello.
