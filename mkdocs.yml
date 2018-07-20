@@ -1,0 +1,7 @@
+repo_url: https://github.com/mironovalexey/test-doc
+
+edit_uri: ""
+
+
+nav:
+  - Home: index.md
