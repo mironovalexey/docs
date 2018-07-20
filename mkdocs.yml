@@ -2,6 +2,5 @@ repo_url: https://github.com/mironovalexey/test-doc
 
 edit_uri: ""
 
-
-nav:
+pages:
   - Home: index.md
