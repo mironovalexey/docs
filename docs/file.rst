@@ -6,6 +6,9 @@
 Field list
 ---------------
 
+.. _target1:
+.. _target2:
+
 :Date: 2001-08-16
 :Version: 1
 :Authors: - Me
