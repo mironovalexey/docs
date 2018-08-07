@@ -6,7 +6,7 @@
 Field list
 ---------------
 
-.. _target1:
+.. _example:
 .. _target2:
 
 :Date: 2001-08-16
@@ -44,5 +44,5 @@ Raw html
      </tr>
    </table>
    
-   :ref:`target1` and target1_
+   :ref:`target1` and example_.
    
