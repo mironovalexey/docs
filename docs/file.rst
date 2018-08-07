@@ -2,9 +2,9 @@
  Section Title
 ===============
 
------
-Table
-------
+---------------
+ Section Title
+---------------
 
 :Date: 2001-08-16
 :Version: 1
