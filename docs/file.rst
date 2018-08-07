@@ -18,6 +18,7 @@ Table
 :Parameter i: integer
 
 .. raw:: html
+
    <table style="width:100%">
      <tr>
        <th>Firstname</th>
