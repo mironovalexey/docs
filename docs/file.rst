@@ -6,9 +6,6 @@
 Field list
 ---------------
 
-.. _example:
-.. _target2:
-
 :Date: 2001-08-16
 :Version: 1
 :Authors: - Me
@@ -20,6 +17,8 @@ Field list
    field name marker, and they must line up with each other.
 :Parameter i: integer
 
+.. _example:
+.. _target2:
 ----
 Raw html
 ----
