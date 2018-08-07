@@ -44,5 +44,5 @@ Raw html
      </tr>
    </table>
    
-   :ref:`target1` and example_ .
+:ref:`target1` and example_ .
    
