@@ -44,4 +44,4 @@ Raw html
      </tr>
    </table>
    
-   `link to target`_target1.
+   :ref:`target1`
