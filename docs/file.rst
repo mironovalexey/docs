@@ -66,6 +66,14 @@ Raw html
        <td>94</td>
      </tr>
    </table>
+
+----
+Ref
+----
    
-:ref:`target2` and example_ .
-   
+
+Paragraphs contain text and may contain inline markup: *emphasis*,
+**strong emphasis**, ``inline literals``, standalone hyperlinks
+(http://www.python.org), external hyperlinks (Python_), internal
+cross-references (example_), external hyperlinks with embedded URIs
+(`Python web site <http://www.python.org>`__),   
