@@ -2,6 +2,10 @@
  Section Title
 ===============
 
+---
+Table
+---
+
 :Date: 2001-08-16
 :Version: 1
 :Authors: - Me
