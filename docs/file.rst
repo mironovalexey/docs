@@ -82,4 +82,4 @@ cross-references (example_), external hyperlinks with embedded URIs
 XXX
 ---
 
-..cusom_directive:
+.. cusom_directive:
