@@ -77,3 +77,9 @@ Paragraphs contain text and may contain inline markup: *emphasis*,
 (http://www.python.org), external hyperlinks (Python_), internal
 cross-references (example_), external hyperlinks with embedded URIs
 (`Python web site <http://www.python.org>`__),   
+
+---
+XXX
+---
+
+..cusom_directive:
