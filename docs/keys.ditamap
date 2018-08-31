@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xsa10="http://dita.oasis-open.org/architecture/2005/"
+     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd:1.3">
+
  <title>Topic KeyDefs</title>
   <keydef keys="key_yandex_com" href="https://yandex.com" format="html" scope="external">
    <linktext>This is Yandex</linktext>
   </keydef>
+
 </map>
