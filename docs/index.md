@@ -1,3 +1,7 @@
 # MkDocs test
 
-Hello. World.
+{% note [type = attention | caution | error | hint | important | danger | note | tip | warning] %}
+> Текст примечания.
+> 
+> Продолжение изложения.
+{% endnote %}
