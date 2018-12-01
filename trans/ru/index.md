@@ -13,3 +13,5 @@
 [!INCLUDE [auth](../../_includes/authentication.md)]
 
 {% inc '[auth](../../_includes/authentication.md)' %}
+
+[!LINK-TITLE [switch cloud](cloud/switch-cloud.md)]
