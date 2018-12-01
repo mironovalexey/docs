@@ -15,3 +15,9 @@
 {% inc '[auth](../../_includes/authentication.md)' %}
 
 [!LINK-TITLE [switch cloud](cloud/switch-cloud.md)]
+
+{% link-title '[switch cloud](cloud/switch-cloud.md)' %}
+
+[!LINK-META [meta_name](cloud/switch-cloud.md)]
+
+{% link-meta '[meta_name](cloud/switch-cloud.md)' %}
