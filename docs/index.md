@@ -7,6 +7,11 @@
 
 {% endnote %}
 
+> [!NOTE]
+>
+> Удалить можно только пустую корзину.
+>
+> XXX
 
 !!! note
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
