@@ -8,7 +8,21 @@
 
 {% endnote %}
 
+> [!NOTE]
+> 
+> Удалить можно только пустую корзину.
+> 
+> XXX
+
 !!! note Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+!!! info Был сильный мороз.
+
+    | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
+    
 
 [!INCLUDE [auth](../../_includes/authentication.md)]
 
