@@ -62,7 +62,9 @@ Python
 ```
 
 Java
-:   ```
+: 
+```
     The fruit of an evergreen tree of the genus Citrus.
-    ```
+```
+
 {% endtabs}
