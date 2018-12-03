@@ -39,3 +39,19 @@
 [!LINK-META [meta_name](cloud/switch-cloud.md)]
 
 {% link-meta '[meta_name](cloud/switch-cloud.md)' %}
+
+{% tabs %}
+
+Python
+:           import os
+        
+            Pomaceous fruit of plants of the genus Malus in
+            the family Rosaceae.
+        
+
+Java : 
+
+        The fruit of an evergreen tree of the genus Citrus.
+    
+
+{% endtabs}
