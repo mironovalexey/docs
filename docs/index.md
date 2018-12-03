@@ -53,12 +53,13 @@
 {% tabs %}
 
 Python
-:   ```
+:   
+```
     import os
   
     Pomaceous fruit of plants of the genus Malus in
     the family Rosaceae.
-    ```
+```
 
 Java
 :   ```
