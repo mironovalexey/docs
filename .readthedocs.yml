@@ -1,6 +1,6 @@
 
 version: 2
-formats: [htmlzip]
+formats: [htmlzip, pdf]
 mkdocs:
   configuration: mkdocs.yml
 #python:
