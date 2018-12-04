@@ -1,6 +1,6 @@
 
 version: 2
-formats: all
+formats: [html]
 mkdocs:
   configuration: mkdocs.yml
 #python:
