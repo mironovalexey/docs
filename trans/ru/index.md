@@ -42,7 +42,7 @@
 
 {% tabs %}
 
-{% tab 'Python' %}
+{% item 'Python' %}
 
     import os
     
@@ -50,12 +50,12 @@
     the family Rosaceae.
     
 
-{% tab 'Java' %}
+{% item 'Java' %}
 
     The fruit of an evergreen tree of the genus Citrus.
     
 
-{% tab 'Just Tab' %}
+{% item 'Just Tab' %}
 
 - One
 - Two
@@ -67,3 +67,7 @@
 3. Item
 
 {% endtabs}
+
+<details>
+      <p>More info about the details.</p>
+</details>
