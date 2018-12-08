@@ -1,5 +1,9 @@
 # MkDocs test
 
+Text and
+
+> Note
+
 {% note %}
 
 > Текст примечания.
