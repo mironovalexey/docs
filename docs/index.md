@@ -80,4 +80,5 @@ The fruit of an evergreen tree of the genus Citrus.
 <details>
   <summary>Some details</summary>
   <p>More info about the details.</p>
+  a **b** c.
 </details>
