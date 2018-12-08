@@ -66,8 +66,14 @@
 2. Item
 3. Item
 
+a **b** c.
+
 {% endtabs}
 
 <details>
-      <p>More info about the details.</p>
+  <summary>Some details</summary></p>
+
+<p>More info about the details.</p>
+
+<p>a <strong>b</strong> c.
 </details>
