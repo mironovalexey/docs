@@ -52,7 +52,7 @@
 
 {% tabs %}
 
-{% tab 'Python' %}
+{% item 'Python' %}
 ```
 import os
 
@@ -60,12 +60,12 @@ Pomaceous fruit of plants of the genus Malus in
 the family Rosaceae.
 ```
 
-{% tab 'Java' %}
+{% item 'Java' %}
 ```
 The fruit of an evergreen tree of the genus Citrus.
 ```
 
-{% tab 'Just Tab' %}
+{% item 'Just Tab' %}
 - One
 - Two
 
@@ -75,3 +75,8 @@ The fruit of an evergreen tree of the genus Citrus.
 1. Item
 
 {% endtabs}
+
+
+<details>
+      <p>More info about the details.</p>
+</details>
