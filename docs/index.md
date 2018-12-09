@@ -56,32 +56,31 @@ Text and
 
 {% tabs %}
 
-{% item 'Python' %}
-```
-import os
+- Python
+  ```
+  import os
 
-Pomaceous fruit of plants of the genus Malus in
-the family Rosaceae.
-```
+  Pomaceous fruit of plants of the genus Malus in
+  the family Rosaceae.
+  ```
 
-{% item 'Java' %}
-```
-The fruit of an evergreen tree of the genus Citrus.
-```
+- Java
+  ```
+  The fruit of an evergreen tree of the genus Citrus.
+  ```
 
-{% item 'Just Tab' %}
-- One
-- Two
+- Just Tab
+  - One
+  - Two
 
-{% tab 'Other Tab' %}
-1. Item
-1. Item
-1. Item
+- Other Tab
+  1. Item
+  1. Item
+  1. Item
 
 a **b** c.
 
 {% endtabs}
-
 
 <details>
   <summary>Some details</summary>
