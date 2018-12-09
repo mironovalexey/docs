@@ -22,10 +22,10 @@ Text and
 
 !!! info Был сильный мороз.
 
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
+      | First Header  | Second Header |
+      | ------------- | ------------- |
+      | Content Cell  | Content Cell  |
+      | Content Cell  | Content Cell  |
     
 
 [!INCLUDE [auth](../../_includes/authentication.md)]
@@ -46,38 +46,39 @@ Text and
 
 {% tabs %}
 
-{% item 'Python' %}
+- Python
+  
+      import os
+      
+      Pomaceous fruit of plants of the genus Malus in
+      the family Rosaceae.
+      
 
-    import os
-    
-    Pomaceous fruit of plants of the genus Malus in
-    the family Rosaceae.
-    
+- Java
+  
+      The fruit of an evergreen tree of the genus Citrus.
+      
 
-{% item 'Java' %}
+- Just Tab
+  
+  - One
+  - Two
 
-    The fruit of an evergreen tree of the genus Citrus.
-    
-
-{% item 'Just Tab' %}
-
-- One
-- Two
-
-{% tab 'Other Tab' %}
-
-1. Item
-2. Item
-3. Item
+- Other Tab
+  
+  1. Item
+  2. Item
+  3. Item
 
 a **b** c.
 
 {% endtabs}
 
-<details>
-  <summary>Some details</summary></p>
+<details> <summary>Some details</summary>
 
-<p>More info about the details.</p>
+More info about the details.
 
-<p>a <strong>b</strong> c.
+    a **b** c.
+    
+
 </details>
