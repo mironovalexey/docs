@@ -87,3 +87,7 @@ a **b** c.
   <p>More info about the details.</p>
   a **b** c.
 </details>
+
+
+??? optional-class "Summary"
+    Here's some content.
