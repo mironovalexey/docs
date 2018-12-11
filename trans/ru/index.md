@@ -99,3 +99,9 @@ More info about the details.
 - - Baz 
     - A very long description again. Notice how the table has already completely fallen apart because you cannot track the table's structure anymore since all lines have different length.
     - 13
+
+## HTML Tables
+
+| Поле     | Описание                                                                                  |
+| -------- | ----------------------------------------------------------------------------------------- |
+| `name` | Имя \[источника\](../reference/glossary.md#source-dscr), данные которого содержит объект. |
