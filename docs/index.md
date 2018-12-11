@@ -91,3 +91,18 @@ a **b** c.
 
 ??? optional-class "Summary"
     Here's some content.
+    
+## List Tables
+
+*   -   Title
+    -   Description
+    -   Default value
+*   -   Foo
+    -   Lorem ipsum dolor amet, blah-blah-blah, really long description, just goes on and on
+    -   42
+*   -   Bar
+    -   Short description 
+    -   2
+*   -   Baz
+    -   A very long description again. Notice how the table has already completely fallen apart because you cannot track the table's structure anymore since all lines have different length.
+    -   13
