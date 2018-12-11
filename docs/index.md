@@ -106,3 +106,15 @@ a **b** c.
 *   -   Baz
     -   A very long description again. Notice how the table has already completely fallen apart because you cannot track the table's structure anymore since all lines have different length.
     -   13
+
+## HTML Tables
+ <table>
+     <tr>
+        <th>Поле</th>
+        <th>Описание</th>
+     </tr>
+     <tr>
+        <td>`name`</td>
+        <td>Имя [источника](../reference/glossary.md#source-dscr), данные которого содержит объект.</td>
+     </tr>
+ </table>
