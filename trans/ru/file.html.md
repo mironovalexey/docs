@@ -12,3 +12,9 @@
 {#para-id .para-class} Paragraph.
 
 Other.
+
+{#table-ia .table-class} 
+
+| a | a | a | a | a |
+| - | - | - | - | - |
+| b | b | b | b | b |
