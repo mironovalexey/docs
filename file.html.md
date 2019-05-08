@@ -13,3 +13,8 @@ This is a fenced with attached attributes
 Paragraph.
 
 Other.
+
+{#table-ia .table-class}
+| a  | a  | a  | a  |  a |
+|---|---|---|---|---|
+| b  | b  | b  | b  | b  |
