@@ -18,3 +18,7 @@ Other.
 | a | a | a | a | a |
 | - | - | - | - | - |
 | b | b | b | b | b |
+
+<span style="color:blue">blue</span>
+
+<small>xxx</small>
