@@ -1,7 +1,13 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2019-09-07 13:25+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: English <http://example.com/projects/gitproject/git-po/en/>\n"
+"Language: en\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 msgctxt "Super context"
 msgid "Настроить двухфакторную аутентификацию"
@@ -19,8 +25,8 @@ msgstr ""
 
 msgid "Сменить пароль"
 msgstr ""
-
 "Это кнопка\n"
 "Перевод скопирован из другого места"
+
 msgid "Закрыть"
-msgstr ""
+msgstr "Close"
