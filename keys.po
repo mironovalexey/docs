@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "Super context"
+msgid "Настроить двухфакторную аутентификацию"
+msgstr ""
+
+msgid "Привязать адрес"
+msgstr ""
+
+# Чота я передумал
+msgid "Я передумал"
+msgstr ""
+
+msgid "Я сменю пароль позже"
+msgstr ""
+
+msgid "Сменить пароль"
+msgstr ""
+
+"Это кнопка\n"
+"Перевод скопирован из другого места"
+msgid "Закрыть"
+msgstr ""
